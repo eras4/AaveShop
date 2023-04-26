@@ -40,7 +40,7 @@ This project demonstrates how to interact with the Aave and Shopify APIs to crea
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/aave-shopify.git
+git clone 
 
 
 2. Change to the project directory:
